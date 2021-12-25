@@ -86,7 +86,7 @@ a{
 
 .intro{
     background:
-    url(/assets/img/maxresdefault\ \(1\)\ 2.png) center center no-repeat;
+    url(./assets/img/maxresdefault\ \(1\)\ 2.png) center center no-repeat;
     height: 490px;
     margin: 40px auto;
     background-size: cover;
